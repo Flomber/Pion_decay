@@ -216,18 +216,19 @@ The relative resolution follows the expected 1/√E dependence: higher energy ph
 
 ## Use of Generative AI
 
-[TO BE FILLED]
+Generative AI was used while working on this homework task.
 
 ---
 
 ## Authors
 
-[TO BE FILLED]
+- Colin Beckmann [colin.beckmann@edu.ruhr-uni-bochum.de]
+- Fabian Steube [fabian.steube@edu.ruhr-uni-bochum.de]
 
 ---
 
 ## License
 
-[TO BE FILLED]
+This project was created as an homework assignment.
 
 ---
