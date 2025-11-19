@@ -210,7 +210,7 @@ The relative resolution follows the expected 1/√E dependence: higher energy ph
 
 ## Answer to Task c): Feasibility and Technical Challenges
 
-[TO BE FILLED]
+Discusion on the results and the typical constraints and technical challenges that have to be faced when constructing a calorimeter are found in `Task c).pdf`.
 
 ---
 
